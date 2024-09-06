@@ -1,0 +1,10 @@
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\bin\Debug\netstandard2.0\PWF-Teste-01.Core.deps.json
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\bin\Debug\netstandard2.0\PWF-Teste-01.Core.dll
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\bin\Debug\netstandard2.0\PWF-Teste-01.Core.pdb
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.csproj.AssemblyReference.cache
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.AssemblyInfoInputs.cache
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.AssemblyInfo.cs
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.csproj.CoreCompileInputs.cache
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.dll
+D:\Repositorio Temp\PWF-Teste-01\PWF-Teste-01.Core\obj\Debug\netstandard2.0\PWF-Teste-01.Core.pdb

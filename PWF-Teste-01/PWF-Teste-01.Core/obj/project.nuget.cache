@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWJaubtXtECRaaioUfLbR2wbvt45YpxBTrYszttInt24Qmy4B1wu8K5gtbF55a2oYnMBX1D8pGbaguv6khXlyg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorio Temp\\PWF-Teste-01\\PWF-Teste-01.Core\\PWF-Teste-01.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afurtado\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\afurtado\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\afurtado\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
